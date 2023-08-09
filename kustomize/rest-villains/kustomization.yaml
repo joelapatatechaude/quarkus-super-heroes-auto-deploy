@@ -16,4 +16,4 @@ patches:
     metadata:
       name: rest-villains-config
     data:
-      quarkus.smallrye-openapi.servers: http://unknown:8080
+      quarkus.smallrye-openapi.servers: http://rest-villains-quarkus-superheroes-user1.apps.cluster-j7tgc.sandbox986.opentlc.com
