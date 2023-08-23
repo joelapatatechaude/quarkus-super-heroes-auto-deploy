@@ -13,6 +13,7 @@ resources:
 - rest-heroes
 - rest-fights
 - ui-super-heroes
+- fights-kafka
 
 patches:
 
