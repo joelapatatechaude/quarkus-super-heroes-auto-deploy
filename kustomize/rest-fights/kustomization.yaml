@@ -21,7 +21,7 @@ patches:
         spec:
           containers:
             - name: rest-fights
-              image: rest-fights:latest
+              image: image-registry.openshift-image-registry.svc:5000/quarkus-superheroes-dev/rest-fights:2023-08-23-11-30-48
 
 - patch: |-
     apiVersion: v1
