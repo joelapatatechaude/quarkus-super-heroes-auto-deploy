@@ -21,7 +21,7 @@ patches:
         spec:
           containers:
             - name: rest-fights
-              image: quay.io/rh_ee_cschmitz/rest-fights-auto:2023-08-24-00-33-21
+              image: quay.io/rh_ee_cschmitz/rest-fights-auto:2023-08-24-04-28-25
 
 - patch: |-
     apiVersion: v1
